@@ -1,1 +1,1 @@
-const message = "teste"
+const message = "teste!"
